@@ -92,7 +92,7 @@ namespace ConsoleApp11
                         string yeniUrun = Console.ReadLine();
                         Console.WriteLine("Eklemek istediğiniz ürünün fiyatını giriniz:");
                         int yeniFiyat = Convert.ToInt32(Console.ReadLine());
-                        string yeniUrunNo = (ürünnumarası.Length + 1).ToString();
+                        string yeniUrunNo = (ürünnumarası.Length +).ToString();
 
                         Array.Resize(ref ürünler, ürünler.Length + 1);
                         ürünler[ürünler.Length - 1] = yeniUrun;
@@ -126,14 +126,6 @@ namespace ConsoleApp11
                     default:
                         Console.WriteLine("Geçersiz seçim.");
                         break;
-                }
-
-                // Güncellenmiş listeyi yazdır
-                Console.WriteLine("\nGüncellenmiş Ürün Listesi:");
-                for (int i = 0; i < ürünler.Length; i++)
-                {
-                    // Ürünlerin null olup olmadığını kontrol etmeden yazdır
-                    Console.WriteLine($"Ürün: {(ürünler[i] ?? "Silinmiş Ürün")}, Fiyat: {ürünfiyatları[i]} TL, Numarası: {(ürünnumarası[i] ?? "N/A")}");
                 }
             }
             Console.ReadLine();
