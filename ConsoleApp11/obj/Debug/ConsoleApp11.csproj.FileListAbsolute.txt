@@ -1,0 +1,7 @@
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\yigit\OneDrive\Desktop\C#\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
